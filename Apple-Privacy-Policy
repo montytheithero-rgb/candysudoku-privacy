@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Privacy Policy – Candy Sudoku – Sweet Logic</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; max-width: 700px; margin: 40px auto; padding: 20px; line-height: 1.6; color: #333; }
+    h1, h2 { color: #1d1d1f; }
+    .footer { margin-top: 50px; font-size: 0.9em; color: #666; text-align: center; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy for Candy Sudoku – Sweet Logic</h1>
+  <p><strong>Last Updated:</strong> April 5, 2025</p>
+
+  <p>This game does not collect, store, or share any personal information from players. Your gameplay data — such as progress, settings, and game state — is saved locally on your device only and is not transmitted to any external server.</p>
+
+  <p>The app displays advertisements to support free access. These ads are served by an advertising network, which may use anonymous, non-personal information (such as device type or usage patterns) to deliver relevant content. No personally identifiable details — including names, email addresses, or passwords — are collected or shared. The advertising network may use your device’s advertising identifier for ad targeting, a practice Apple defines as “tracking.”</p>
+
+  <p>All in-app purchases, such as the option to remove ads, are securely handled through the App Store. We do not have access to your payment information or account credentials.</p>
+
+  <p>We do not engage in behavioral profiling or data sharing with third parties beyond what is necessary for ad delivery and app functionality.</p>
+
+  <p>If you are under 13 years old, please play with the permission of a parent or guardian. The game is family-friendly and does not contain inappropriate content.</p>
+
+  <p>By using this app, you agree to the practices described in this Privacy Policy. We reserve the right to update this policy over time, but future changes will remain focused on user privacy and transparency.</p>
+
+  <div class="footer">
+    © 2025 Candy Sudoku – Sweet Logic. All rights reserved.
+  </div>
+</body>
+</html>
